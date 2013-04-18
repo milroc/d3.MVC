@@ -1,0 +1,19 @@
+{
+  "name": "ember",
+  "version": "1.0.0-rc.2",
+  "main": [
+    "./ember.js"
+  ],
+  "dependencies": {
+    "jquery": "~1.9.0",
+    "handlebars": "~1.0.0-rc.3"
+  },
+  "gitHead": "d2c53b9d18ea6d5f2c4042c7bf25a29295c4c93b",
+  "_id": "ember.js@1.0.0-rc.2",
+  "readme": "ERROR: No README.md file found!",
+  "description": "ERROR: No README.md file found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/components/ember"
+  }
+}
