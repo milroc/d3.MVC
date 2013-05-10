@@ -1,3 +1,18 @@
 [submodule "reusableAPI/derby-barchart"]
 	path = reusableAPI/derby-barchart
 	url = git://github.com/enjalot/derby-barchart.git
+[submodule "angular"]
+	path = reusableAPI/angular
+	url = https://gist.github.com/5519819.git
+[submodule "vanilla"]
+	path = vanillad3
+	url = https://gist.github.com/5518052.git
+[submodule "reusabled3"]
+	path = reusableAPI/reusable
+	url = https://gist.github.com/5519642.git
+[submodule "ember"]
+	path = reusableAPI/ember
+	url = https://gist.github.com/5520449.git
+[submodule "backbone"]
+	path = reusableAPI/backbone
+	url = https://gist.github.com/5522467.git
