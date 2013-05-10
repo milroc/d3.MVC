@@ -1,0 +1,3 @@
+[submodule "reusableAPI/derby-barchart"]
+	path = reusableAPI/derby-barchart
+	url = git://github.com/enjalot/derby-barchart.git
