@@ -4,7 +4,7 @@ d3.MVC
 This repository is very similar to the ToDoMVC library built to compare MVC front-end frameworks but it will be comparing front end frameworks and their ability to work with d3.js. This was created for the talk on reusable visualizations ([slides](http://bl.ocks.org/milroc/raw/5553051/#0)).
 
 -Miles
-@milr0c
+[@milr0c](https://twitter.com/Milr0c)
 
 # Installation
 
