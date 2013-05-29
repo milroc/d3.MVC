@@ -30,4 +30,10 @@ This is the code created solely in d3.js with little to no encapsulation.
 
 # Please Pull Request
 
-If your favorite MV* framework isn't supported, create a gist and add it as a submodule. Follow `vanillad3` as an example.
+### gist based
+
+If your favorite purely frontend MV* framework isn't supported, create a gist and add it as a submodule. Follow `vanillad3` as an example.
+
+### github based
+
+Please only create your own repository, if the framework supported is one of the hybrid frontend/backend system (e.g: derby, meteor). Follow `reusableAPI/derby-barchart` as an example.
