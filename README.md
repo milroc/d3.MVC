@@ -6,6 +6,15 @@ This repository is very similar to the ToDoMVC library built to compare MVC fron
 -Miles
 @milr0c
 
+# Installation
+
+`git clone --recursive git://github.com/milroc/d3.MVC.git`
+
+# Running
+
+In order to run a specific example. `python -m SimpleHTTPServer` in that directory will allow you to run it, if not I recommend you look at the README.md in said subfolder.
+
+# Code Structure
 
 ### reusable API
 
@@ -19,10 +28,6 @@ This is following an object oriented MV* paradigm that would be akin to leveragi
 
 This is the code created solely in d3.js with little to no encapsulation.
 
-### Running
+# Please Pull Request
 
-In order to run a specific example. `python -m SimpleHTTPServer` in that directory will allow you to run it, if not I recommend you look at the README.md in said subfolder.
-
-### please pull request
-
-There are some inherent paradigms with a given MVC framework that may not be followed. If you notice something feel free to change it and pull request.
+If your favorite MV* framework isn't supported, create a gist and add it as a submodule. Follow `vanillad3` as an example.
