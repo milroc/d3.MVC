@@ -1,7 +1,7 @@
 d3.MVC
 ==============
 
-This repository is very similar to the ToDoMVC library built to compare MVC front-end frameworks but it will be comparing front end frameworks and their ability to work with d3.js. This was created for the talk on reusable visualizations ([slides](http://bl.ocks.org/milroc/raw/5553051/#0)).
+This repository is very similar to the ToDoMVC library built to compare MVC front-end frameworks but it will be comparing front end frameworks and their ability to work with d3.js. This was created for the talk on reusable visualizations ([video](http://youtu.be/Hd2rye9a9kk) and [slides](http://bl.ocks.org/milroc/raw/5553051/#0)). [Chris Viau](https://github.com/biovisualize)([@d3visualization](https://twitter.com/d3visualization)) also spoke on the reusable visualization API ([video](http://youtu.be/BI1MhRdPFtU) and [slides](https://docs.google.com/presentation/d/1YMwsyl0r1XXMS-V1ZWXgpPApFf4ZqEbLbt_P-Vwvv1k/edit#slide=id.p)). [Jyri Tuulos](https://github.com/jtuulos)([@jtuulos](https://twitter.com/jtuulos)) talked about creating Views in backbone and how to use d3.js in an OO way ([video](http://youtu.be/kqSc9YAZUi8) and [slides](http://jtuulos.github.io/bayd3-may2013/#/)).
 
 -Miles
 [@milr0c](https://twitter.com/Milr0c)
